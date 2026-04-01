@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7633a397b79f0d746bd385a21ba0d8b7, type: 3}
+  m_Name: WorldForgerSettings
+  m_EditorClassIdentifier: 
+  chunkSize: 15
+  cellSize: {x: 2, y: 2}
+  terrainMaterial: {fileID: 2100000, guid: 904b58352a4108d4aad214678bcb2944, type: 2}
+  slopeThreshold: 0.5
+  heightSnap: 0.5

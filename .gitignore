@@ -97,3 +97,11 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# URP
+Scenes
+Scenes.meta
+Settings
+Settings.meta
+UniversalRenderPipelineGlobalSettings.asset
+UniversalRenderPipelineGlobalSettings.asset.meta
